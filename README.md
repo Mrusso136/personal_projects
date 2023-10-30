@@ -1,6 +1,6 @@
 How to launch ?
 
-run these commands in the Calendar folder :
+Run these commands in the Calendar folder :
 1. Installing composer
    - php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
    - php composer-setup.php
