@@ -11,3 +11,4 @@ Run these commands in the Calendar folder :
    - php artisan serve
 
 !!! Don't forget to create courses, groups, teachers because your database will be empty when cloning !!!
+- Google Log in feature deprecated
